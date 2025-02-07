@@ -1,0 +1,8 @@
+2025-01-29 19:29:47 [HikariPool-1 housekeeper] WARN  : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20h15m47s582ms470µs900ns).
+2025-01-29 19:45:44 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-01-29 19:45:44 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-01-29 19:45:44 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-01-29 19:45:45 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-01-29 19:45:45 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-01-29 19:45:45 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-01-29 21:03:33 [HikariPool-1 housekeeper] WARN  : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=21m14s64ms946µs400ns).

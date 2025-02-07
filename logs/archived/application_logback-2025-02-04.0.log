@@ -1,0 +1,611 @@
+2025-02-04 19:26:26 [background-preinit] INFO  : HV000001: Hibernate Validator 8.0.1.Final
+2025-02-04 19:26:26 [main] INFO  : Starting VLMSStockApiApplication using Java 17.0.10 with PID 10304 (C:\D_Drive\Learning\SpringBoot\VLMS_Stock_API\target\classes started by pavan in C:\D_Drive\Learning\SpringBoot\VLMS_Stock_API)
+2025-02-04 19:26:26 [main] DEBUG : Running with Spring Boot v3.2.3, Spring v6.1.4
+2025-02-04 19:26:26 [main] INFO  : No active profile set, falling back to 1 default profile: "default"
+2025-02-04 19:26:27 [main] INFO  : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-04 19:26:27 [main] INFO  : Finished Spring Data repository scanning in 65 ms. Found 1 JPA repository interface.
+2025-02-04 19:26:29 [main] INFO  : Tomcat initialized with port 8080 (http)
+2025-02-04 19:26:29 [main] INFO  : Initializing ProtocolHandler ["http-nio-8080"]
+2025-02-04 19:26:29 [main] INFO  : Starting service [Tomcat]
+2025-02-04 19:26:29 [main] INFO  : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2025-02-04 19:26:29 [main] INFO  : Initializing Spring embedded WebApplicationContext
+2025-02-04 19:26:29 [main] INFO  : Root WebApplicationContext: initialization completed in 3053 ms
+2025-02-04 19:26:29 [main] INFO  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-02-04 19:26:29 [main] INFO  : HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-02-04 19:26:30 [main] INFO  : HHH000026: Second-level cache disabled
+2025-02-04 19:26:30 [main] INFO  : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-02-04 19:26:30 [main] INFO  : HikariPool-1 - Starting...
+2025-02-04 19:26:30 [main] INFO  : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@47f0e078
+2025-02-04 19:26:30 [main] INFO  : HikariPool-1 - Start completed.
+2025-02-04 19:26:31 [main] INFO  : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-02-04 19:26:31 [main] INFO  : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-02-04 19:26:32 [main] WARN  : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-02-04 19:26:33 [main] INFO  : Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-02-04 19:26:34 [main] INFO  : Starting ProtocolHandler ["http-nio-8080"]
+2025-02-04 19:26:34 [main] INFO  : Tomcat started on port 8080 (http) with context path ''
+2025-02-04 19:26:34 [main] INFO  : Started VLMSStockApiApplication in 8.605 seconds (process running for 9.339)
+2025-02-04 19:27:09 [http-nio-8080-exec-3] INFO  : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-04 19:27:09 [http-nio-8080-exec-3] INFO  : Initializing Servlet 'dispatcherServlet'
+2025-02-04 19:27:09 [http-nio-8080-exec-3] INFO  : Completed initialization in 2 ms
+2025-02-04 19:49:25 [SpringApplicationShutdownHook] INFO  : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-02-04 19:49:25 [SpringApplicationShutdownHook] INFO  : HikariPool-1 - Shutdown initiated...
+2025-02-04 19:49:25 [SpringApplicationShutdownHook] INFO  : HikariPool-1 - Shutdown completed.
+2025-02-04 19:51:38 [background-preinit] INFO  : HV000001: Hibernate Validator 8.0.1.Final
+2025-02-04 19:51:38 [main] INFO  : Starting VLMSStockApiApplication using Java 17.0.10 with PID 16292 (C:\D_Drive\Learning\SpringBoot\VLMS_Stock_API\target\classes started by pavan in C:\D_Drive\Learning\SpringBoot\VLMS_Stock_API)
+2025-02-04 19:51:38 [main] DEBUG : Running with Spring Boot v3.2.3, Spring v6.1.4
+2025-02-04 19:51:38 [main] INFO  : No active profile set, falling back to 1 default profile: "default"
+2025-02-04 19:51:39 [main] INFO  : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-04 19:51:39 [main] INFO  : Finished Spring Data repository scanning in 67 ms. Found 1 JPA repository interface.
+2025-02-04 19:51:40 [main] INFO  : Tomcat initialized with port 8080 (http)
+2025-02-04 19:51:40 [main] INFO  : Initializing ProtocolHandler ["http-nio-8080"]
+2025-02-04 19:51:40 [main] INFO  : Starting service [Tomcat]
+2025-02-04 19:51:40 [main] INFO  : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2025-02-04 19:51:40 [main] INFO  : Initializing Spring embedded WebApplicationContext
+2025-02-04 19:51:40 [main] INFO  : Root WebApplicationContext: initialization completed in 1979 ms
+2025-02-04 19:51:40 [main] INFO  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-02-04 19:51:41 [main] INFO  : HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-02-04 19:51:41 [main] INFO  : HHH000026: Second-level cache disabled
+2025-02-04 19:51:41 [main] INFO  : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-02-04 19:51:41 [main] INFO  : HikariPool-1 - Starting...
+2025-02-04 19:51:41 [main] INFO  : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@43cf5bff
+2025-02-04 19:51:41 [main] INFO  : HikariPool-1 - Start completed.
+2025-02-04 19:51:42 [main] INFO  : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-02-04 19:51:42 [main] INFO  : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-02-04 19:51:42 [main] WARN  : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-02-04 19:51:44 [main] INFO  : Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-02-04 19:51:44 [main] INFO  : Starting ProtocolHandler ["http-nio-8080"]
+2025-02-04 19:51:44 [main] INFO  : Tomcat started on port 8080 (http) with context path ''
+2025-02-04 19:51:44 [main] INFO  : Started VLMSStockApiApplication in 6.031 seconds (process running for 6.462)
+2025-02-04 19:52:13 [http-nio-8080-exec-1] INFO  : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-04 19:52:13 [http-nio-8080-exec-1] INFO  : Initializing Servlet 'dispatcherServlet'
+2025-02-04 19:52:13 [http-nio-8080-exec-1] INFO  : Completed initialization in 3 ms
+2025-02-04 20:00:00 [SpringApplicationShutdownHook] INFO  : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-02-04 20:00:00 [SpringApplicationShutdownHook] INFO  : HikariPool-1 - Shutdown initiated...
+2025-02-04 20:00:00 [SpringApplicationShutdownHook] INFO  : HikariPool-1 - Shutdown completed.
+2025-02-04 20:02:06 [background-preinit] INFO  : HV000001: Hibernate Validator 8.0.1.Final
+2025-02-04 20:02:06 [main] INFO  : Starting VLMSStockApiApplication using Java 17.0.10 with PID 18528 (C:\D_Drive\Learning\SpringBoot\VLMS_Stock_API\target\classes started by pavan in C:\D_Drive\Learning\SpringBoot\VLMS_Stock_API)
+2025-02-04 20:02:06 [main] DEBUG : Running with Spring Boot v3.2.3, Spring v6.1.4
+2025-02-04 20:02:06 [main] INFO  : No active profile set, falling back to 1 default profile: "default"
+2025-02-04 20:02:07 [main] INFO  : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-04 20:02:07 [main] INFO  : Finished Spring Data repository scanning in 52 ms. Found 1 JPA repository interface.
+2025-02-04 20:02:08 [main] INFO  : Tomcat initialized with port 8080 (http)
+2025-02-04 20:02:08 [main] INFO  : Initializing ProtocolHandler ["http-nio-8080"]
+2025-02-04 20:02:08 [main] INFO  : Starting service [Tomcat]
+2025-02-04 20:02:08 [main] INFO  : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2025-02-04 20:02:08 [main] INFO  : Initializing Spring embedded WebApplicationContext
+2025-02-04 20:02:08 [main] INFO  : Root WebApplicationContext: initialization completed in 1941 ms
+2025-02-04 20:02:09 [main] INFO  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-02-04 20:02:09 [main] INFO  : HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-02-04 20:02:09 [main] INFO  : HHH000026: Second-level cache disabled
+2025-02-04 20:02:09 [main] INFO  : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-02-04 20:02:09 [main] INFO  : HikariPool-1 - Starting...
+2025-02-04 20:02:09 [main] INFO  : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1987807b
+2025-02-04 20:02:09 [main] INFO  : HikariPool-1 - Start completed.
+2025-02-04 20:02:10 [main] INFO  : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-02-04 20:02:10 [main] INFO  : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-02-04 20:02:11 [main] WARN  : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-02-04 20:02:12 [main] INFO  : Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-02-04 20:02:12 [main] INFO  : Starting ProtocolHandler ["http-nio-8080"]
+2025-02-04 20:02:12 [main] INFO  : Tomcat started on port 8080 (http) with context path ''
+2025-02-04 20:02:12 [main] INFO  : Started VLMSStockApiApplication in 6.032 seconds (process running for 6.434)
+2025-02-04 20:02:18 [http-nio-8080-exec-3] INFO  : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-04 20:02:18 [http-nio-8080-exec-3] INFO  : Initializing Servlet 'dispatcherServlet'
+2025-02-04 20:02:18 [http-nio-8080-exec-3] INFO  : Completed initialization in 2 ms
+2025-02-04 20:02:18 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-02-04 20:02:18 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-02-04 20:02:18 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-02-04 20:02:23 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-02-04 20:02:23 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-02-04 20:02:23 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-02-04 20:02:47 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-02-04 20:02:47 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-02-04 20:02:47 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-02-04 20:03:41 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-02-04 20:03:41 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-02-04 20:03:41 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-02-04 20:04:05 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-02-04 20:04:05 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-02-04 20:04:05 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-02-04 20:04:07 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-02-04 20:04:07 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-02-04 20:04:07 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-02-04 20:08:29 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-02-04 20:08:29 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-02-04 20:08:29 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-02-04 20:14:23 [SpringApplicationShutdownHook] INFO  : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-02-04 20:14:23 [SpringApplicationShutdownHook] INFO  : HikariPool-1 - Shutdown initiated...
+2025-02-04 20:14:23 [SpringApplicationShutdownHook] INFO  : HikariPool-1 - Shutdown completed.
+2025-02-04 20:15:12 [background-preinit] INFO  : HV000001: Hibernate Validator 8.0.1.Final
+2025-02-04 20:15:12 [main] INFO  : Starting VLMSStockApiApplication using Java 17.0.10 with PID 3968 (C:\D_Drive\Learning\SpringBoot\VLMS_Stock_API\target\classes started by pavan in C:\D_Drive\Learning\SpringBoot\VLMS_Stock_API)
+2025-02-04 20:15:12 [main] DEBUG : Running with Spring Boot v3.2.3, Spring v6.1.4
+2025-02-04 20:15:12 [main] INFO  : No active profile set, falling back to 1 default profile: "default"
+2025-02-04 20:15:13 [main] INFO  : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-04 20:15:13 [main] INFO  : Finished Spring Data repository scanning in 53 ms. Found 1 JPA repository interface.
+2025-02-04 20:15:14 [main] INFO  : Tomcat initialized with port 8080 (http)
+2025-02-04 20:15:14 [main] INFO  : Initializing ProtocolHandler ["http-nio-8080"]
+2025-02-04 20:15:14 [main] INFO  : Starting service [Tomcat]
+2025-02-04 20:15:14 [main] INFO  : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2025-02-04 20:15:14 [main] INFO  : Initializing Spring embedded WebApplicationContext
+2025-02-04 20:15:14 [main] INFO  : Root WebApplicationContext: initialization completed in 1963 ms
+2025-02-04 20:15:14 [main] INFO  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-02-04 20:15:14 [main] INFO  : HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-02-04 20:15:14 [main] INFO  : HHH000026: Second-level cache disabled
+2025-02-04 20:15:14 [main] INFO  : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-02-04 20:15:14 [main] INFO  : HikariPool-1 - Starting...
+2025-02-04 20:15:15 [main] INFO  : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2b464384
+2025-02-04 20:15:15 [main] INFO  : HikariPool-1 - Start completed.
+2025-02-04 20:15:16 [main] INFO  : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-02-04 20:15:16 [main] INFO  : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-02-04 20:15:16 [main] WARN  : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-02-04 20:15:17 [main] INFO  : Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-02-04 20:15:17 [main] INFO  : Starting ProtocolHandler ["http-nio-8080"]
+2025-02-04 20:15:17 [main] INFO  : Tomcat started on port 8080 (http) with context path ''
+2025-02-04 20:15:17 [main] INFO  : Started VLMSStockApiApplication in 6.029 seconds (process running for 6.45)
+2025-02-04 20:15:28 [http-nio-8080-exec-2] INFO  : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-04 20:15:28 [http-nio-8080-exec-2] INFO  : Initializing Servlet 'dispatcherServlet'
+2025-02-04 20:15:28 [http-nio-8080-exec-2] INFO  : Completed initialization in 2 ms
+2025-02-04 20:15:28 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-02-04 20:15:28 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-02-04 20:15:28 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-02-04 20:15:30 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-02-04 20:15:30 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-02-04 20:15:30 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-02-04 20:15:31 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-02-04 20:15:31 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-02-04 20:15:31 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-02-04 20:15:32 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-02-04 20:15:32 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-02-04 20:15:32 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-02-04 20:15:32 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-02-04 20:15:32 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-02-04 20:15:32 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-02-04 20:15:43 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-02-04 20:15:43 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-02-04 20:15:43 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-02-04 20:15:44 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-02-04 20:15:44 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-02-04 20:15:44 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-02-04 20:15:45 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-02-04 20:15:45 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-02-04 20:15:45 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-02-04 20:15:46 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-02-04 20:15:46 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-02-04 20:15:46 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-02-04 20:15:47 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-02-04 20:15:47 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-02-04 20:15:47 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-02-04 20:15:48 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-02-04 20:15:48 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-02-04 20:15:48 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-02-04 20:15:48 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-02-04 20:15:48 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-02-04 20:15:48 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-02-04 20:15:49 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-02-04 20:15:49 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-02-04 20:15:49 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-02-04 20:15:50 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-02-04 20:15:50 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-02-04 20:15:50 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-02-04 20:15:51 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-02-04 20:15:51 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-02-04 20:15:51 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-02-04 20:15:59 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-02-04 20:15:59 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-02-04 20:15:59 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-02-04 20:15:59 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-02-04 20:15:59 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-02-04 20:15:59 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-02-04 20:16:02 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-02-04 20:16:02 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:02 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-02-04 20:16:03 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-02-04 20:16:03 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:03 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-02-04 20:16:03 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-02-04 20:16:03 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:03 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-02-04 20:16:04 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-02-04 20:16:04 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:04 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-02-04 20:16:05 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-02-04 20:16:05 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:05 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-02-04 20:16:06 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-02-04 20:16:06 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:06 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-02-04 20:16:07 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-02-04 20:16:07 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:07 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-02-04 20:16:08 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-02-04 20:16:08 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:08 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-02-04 20:16:14 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-02-04 20:16:14 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:14 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-02-04 20:16:17 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-02-04 20:16:17 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:17 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-02-04 20:16:18 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-02-04 20:16:18 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:18 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-02-04 20:16:19 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-02-04 20:16:19 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:19 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-02-04 20:16:20 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-02-04 20:16:20 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:20 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-02-04 20:16:21 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-02-04 20:16:21 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:21 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-02-04 20:16:22 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-02-04 20:16:22 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:22 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-02-04 20:16:23 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-02-04 20:16:23 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:23 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-02-04 20:16:29 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-02-04 20:16:29 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:29 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-02-04 20:16:30 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-02-04 20:16:30 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:30 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-02-04 20:16:31 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-02-04 20:16:31 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:31 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-02-04 20:16:32 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-02-04 20:16:32 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:32 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-02-04 20:16:33 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-02-04 20:16:33 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:33 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-02-04 20:16:33 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-02-04 20:16:33 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:33 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-02-04 20:16:34 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-02-04 20:16:34 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:34 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-02-04 20:16:36 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-02-04 20:16:36 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:36 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-02-04 20:16:37 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-02-04 20:16:37 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:37 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-02-04 20:16:38 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-02-04 20:16:38 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:38 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-02-04 20:16:38 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-02-04 20:16:38 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:38 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-02-04 20:16:44 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-02-04 20:16:44 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:44 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-02-04 20:16:45 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-02-04 20:16:45 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:45 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-02-04 20:16:45 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-02-04 20:16:45 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:45 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-02-04 20:16:46 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-02-04 20:16:46 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:46 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-02-04 20:16:47 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-02-04 20:16:47 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:47 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-02-04 20:16:47 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-02-04 20:16:47 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:47 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-02-04 20:16:48 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-02-04 20:16:48 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:48 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-02-04 20:16:48 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-02-04 20:16:48 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:48 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-02-04 20:16:49 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-02-04 20:16:49 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:49 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-02-04 20:16:50 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-02-04 20:16:50 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:50 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-02-04 20:16:51 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-02-04 20:16:51 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:51 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-02-04 20:16:51 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-02-04 20:16:51 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:51 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-02-04 20:16:52 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-02-04 20:16:52 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:52 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-02-04 20:16:59 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-02-04 20:16:59 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:59 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-02-04 20:16:59 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-02-04 20:16:59 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-02-04 20:16:59 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-02-04 20:17:00 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-02-04 20:17:00 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-02-04 20:17:00 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-02-04 20:17:01 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-02-04 20:17:01 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-02-04 20:17:01 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-02-04 20:17:02 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-02-04 20:17:02 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-02-04 20:17:02 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-02-04 20:17:02 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-02-04 20:17:02 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-02-04 20:17:02 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-02-04 20:17:03 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-02-04 20:17:03 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-02-04 20:17:03 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-02-04 20:17:04 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-02-04 20:17:04 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-02-04 20:17:04 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-02-04 20:17:04 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-02-04 20:17:04 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-02-04 20:17:04 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-02-04 20:17:05 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-02-04 20:17:05 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-02-04 20:17:05 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-02-04 20:17:06 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-02-04 20:17:06 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-02-04 20:17:06 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-02-04 20:17:07 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-02-04 20:17:07 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-02-04 20:17:07 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-02-04 20:20:28 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-02-04 20:20:28 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-02-04 20:20:28 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-02-04 20:21:33 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-02-04 20:21:33 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-02-04 20:21:33 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-02-04 20:21:34 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-02-04 20:21:34 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-02-04 20:21:34 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-02-04 20:21:35 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-02-04 20:21:35 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-02-04 20:21:35 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-02-04 20:21:35 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-02-04 20:21:35 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-02-04 20:21:35 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-02-04 20:21:36 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-02-04 20:21:36 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-02-04 20:21:36 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-02-04 20:21:49 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-02-04 20:21:49 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-02-04 20:21:49 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-02-04 20:21:50 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-02-04 20:21:50 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-02-04 20:21:50 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-02-04 20:21:51 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-02-04 20:21:51 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-02-04 20:21:51 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-02-04 20:21:52 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-02-04 20:21:52 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-02-04 20:21:52 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-02-04 20:21:52 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-02-04 20:21:52 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-02-04 20:21:52 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-02-04 20:21:53 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-02-04 20:21:53 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-02-04 20:21:53 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-02-04 20:21:54 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-02-04 20:21:54 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-02-04 20:21:54 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-02-04 20:25:14 [SpringApplicationShutdownHook] INFO  : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-02-04 20:25:14 [SpringApplicationShutdownHook] INFO  : HikariPool-1 - Shutdown initiated...
+2025-02-04 20:25:14 [SpringApplicationShutdownHook] INFO  : HikariPool-1 - Shutdown completed.
+2025-02-04 20:25:49 [background-preinit] INFO  : HV000001: Hibernate Validator 8.0.1.Final
+2025-02-04 20:25:49 [main] INFO  : Starting VLMSStockApiApplication using Java 17.0.10 with PID 16644 (C:\D_Drive\Learning\SpringBoot\VLMS_Stock_API\target\classes started by pavan in C:\D_Drive\Learning\SpringBoot\VLMS_Stock_API)
+2025-02-04 20:25:49 [main] DEBUG : Running with Spring Boot v3.2.3, Spring v6.1.4
+2025-02-04 20:25:49 [main] INFO  : No active profile set, falling back to 1 default profile: "default"
+2025-02-04 20:25:50 [main] INFO  : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-04 20:25:50 [main] INFO  : Finished Spring Data repository scanning in 51 ms. Found 1 JPA repository interface.
+2025-02-04 20:25:50 [main] INFO  : Tomcat initialized with port 8080 (http)
+2025-02-04 20:25:50 [main] INFO  : Initializing ProtocolHandler ["http-nio-8080"]
+2025-02-04 20:25:50 [main] INFO  : Starting service [Tomcat]
+2025-02-04 20:25:50 [main] INFO  : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2025-02-04 20:25:51 [main] INFO  : Initializing Spring embedded WebApplicationContext
+2025-02-04 20:25:51 [main] INFO  : Root WebApplicationContext: initialization completed in 1916 ms
+2025-02-04 20:25:51 [main] INFO  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-02-04 20:25:51 [main] INFO  : HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-02-04 20:25:51 [main] INFO  : HHH000026: Second-level cache disabled
+2025-02-04 20:25:51 [main] INFO  : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-02-04 20:25:51 [main] INFO  : HikariPool-1 - Starting...
+2025-02-04 20:25:52 [main] INFO  : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@41bbb219
+2025-02-04 20:25:52 [main] INFO  : HikariPool-1 - Start completed.
+2025-02-04 20:25:52 [main] INFO  : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-02-04 20:25:52 [main] INFO  : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-02-04 20:25:53 [main] WARN  : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-02-04 20:25:54 [main] INFO  : Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-02-04 20:25:54 [main] INFO  : Starting ProtocolHandler ["http-nio-8080"]
+2025-02-04 20:25:54 [main] INFO  : Tomcat started on port 8080 (http) with context path ''
+2025-02-04 20:25:54 [main] INFO  : Started VLMSStockApiApplication in 6.147 seconds (process running for 6.532)
+2025-02-04 20:25:57 [http-nio-8080-exec-2] INFO  : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-04 20:25:57 [http-nio-8080-exec-2] INFO  : Initializing Servlet 'dispatcherServlet'
+2025-02-04 20:25:57 [http-nio-8080-exec-2] INFO  : Completed initialization in 0 ms
+2025-02-04 20:25:57 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-02-04 20:25:57 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-02-04 20:25:57 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-02-04 20:25:59 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-02-04 20:25:59 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-02-04 20:25:59 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-02-04 20:25:59 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-02-04 20:25:59 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-02-04 20:25:59 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-02-04 20:26:00 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-02-04 20:26:00 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-02-04 20:26:00 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-02-04 20:26:01 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-02-04 20:26:01 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-02-04 20:26:01 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-02-04 20:26:13 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-02-04 20:26:13 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-02-04 20:26:13 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-02-04 20:26:14 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-02-04 20:26:14 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-02-04 20:26:14 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-02-04 20:26:29 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-02-04 20:26:29 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-02-04 20:26:29 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-02-04 20:26:30 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-02-04 20:26:30 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-02-04 20:26:30 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-02-04 20:26:30 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-02-04 20:26:30 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-02-04 20:26:30 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-02-04 20:26:31 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-02-04 20:26:31 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-02-04 20:26:31 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-02-04 20:26:32 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-02-04 20:26:32 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-02-04 20:26:32 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-02-04 20:29:10 [SpringApplicationShutdownHook] INFO  : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-02-04 20:29:10 [SpringApplicationShutdownHook] INFO  : HikariPool-1 - Shutdown initiated...
+2025-02-04 20:29:10 [SpringApplicationShutdownHook] INFO  : HikariPool-1 - Shutdown completed.
+2025-02-04 20:29:38 [background-preinit] INFO  : HV000001: Hibernate Validator 8.0.1.Final
+2025-02-04 20:29:38 [main] INFO  : Starting VLMSStockApiApplication using Java 17.0.10 with PID 20580 (C:\D_Drive\Learning\SpringBoot\VLMS_Stock_API\target\classes started by pavan in C:\D_Drive\Learning\SpringBoot\VLMS_Stock_API)
+2025-02-04 20:29:38 [main] DEBUG : Running with Spring Boot v3.2.3, Spring v6.1.4
+2025-02-04 20:29:38 [main] INFO  : No active profile set, falling back to 1 default profile: "default"
+2025-02-04 20:29:39 [main] INFO  : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-04 20:29:39 [main] INFO  : Finished Spring Data repository scanning in 48 ms. Found 1 JPA repository interface.
+2025-02-04 20:29:40 [main] INFO  : Tomcat initialized with port 8080 (http)
+2025-02-04 20:29:40 [main] INFO  : Initializing ProtocolHandler ["http-nio-8080"]
+2025-02-04 20:29:40 [main] INFO  : Starting service [Tomcat]
+2025-02-04 20:29:40 [main] INFO  : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2025-02-04 20:29:40 [main] INFO  : Initializing Spring embedded WebApplicationContext
+2025-02-04 20:29:40 [main] INFO  : Root WebApplicationContext: initialization completed in 1898 ms
+2025-02-04 20:29:40 [main] INFO  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-02-04 20:29:40 [main] INFO  : HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-02-04 20:29:40 [main] INFO  : HHH000026: Second-level cache disabled
+2025-02-04 20:29:40 [main] INFO  : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-02-04 20:29:40 [main] INFO  : HikariPool-1 - Starting...
+2025-02-04 20:29:41 [main] INFO  : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71f8ce0e
+2025-02-04 20:29:41 [main] INFO  : HikariPool-1 - Start completed.
+2025-02-04 20:29:42 [main] INFO  : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-02-04 20:29:42 [main] INFO  : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-02-04 20:29:42 [main] WARN  : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-02-04 20:29:43 [main] INFO  : Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-02-04 20:29:43 [main] INFO  : Starting ProtocolHandler ["http-nio-8080"]
+2025-02-04 20:29:43 [main] INFO  : Tomcat started on port 8080 (http) with context path ''
+2025-02-04 20:29:43 [main] INFO  : Started VLMSStockApiApplication in 5.992 seconds (process running for 6.378)
+2025-02-04 20:29:47 [http-nio-8080-exec-4] INFO  : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-04 20:29:47 [http-nio-8080-exec-4] INFO  : Initializing Servlet 'dispatcherServlet'
+2025-02-04 20:29:47 [http-nio-8080-exec-4] INFO  : Completed initialization in 3 ms
+2025-02-04 20:29:47 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-02-04 20:29:47 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-02-04 20:29:47 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-02-04 20:29:52 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-02-04 20:29:52 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-02-04 20:29:52 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-02-04 20:29:54 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-02-04 20:29:54 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-02-04 20:29:54 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-02-04 20:29:55 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-02-04 20:29:55 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-02-04 20:29:55 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-02-04 20:29:56 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-02-04 20:29:56 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-02-04 20:29:56 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-02-04 20:30:03 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-02-04 20:30:03 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-02-04 20:30:03 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-02-04 20:30:24 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-02-04 20:30:24 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-02-04 20:30:24 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-02-04 20:30:25 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-02-04 20:30:25 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-02-04 20:30:25 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-02-04 20:30:26 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-02-04 20:30:26 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-02-04 20:30:26 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-02-04 20:30:26 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-02-04 20:30:26 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-02-04 20:30:26 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-02-04 20:30:27 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-02-04 20:30:27 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-02-04 20:30:27 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-02-04 20:31:43 [SpringApplicationShutdownHook] INFO  : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-02-04 20:31:43 [SpringApplicationShutdownHook] INFO  : HikariPool-1 - Shutdown initiated...
+2025-02-04 20:31:43 [SpringApplicationShutdownHook] INFO  : HikariPool-1 - Shutdown completed.
+2025-02-04 20:31:58 [background-preinit] INFO  : HV000001: Hibernate Validator 8.0.1.Final
+2025-02-04 20:31:58 [main] INFO  : Starting VLMSStockApiApplication using Java 17.0.10 with PID 14588 (C:\D_Drive\Learning\SpringBoot\VLMS_Stock_API\target\classes started by pavan in C:\D_Drive\Learning\SpringBoot\VLMS_Stock_API)
+2025-02-04 20:31:58 [main] DEBUG : Running with Spring Boot v3.2.3, Spring v6.1.4
+2025-02-04 20:31:58 [main] INFO  : No active profile set, falling back to 1 default profile: "default"
+2025-02-04 20:31:59 [main] INFO  : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-04 20:31:59 [main] INFO  : Finished Spring Data repository scanning in 49 ms. Found 1 JPA repository interface.
+2025-02-04 20:31:59 [main] INFO  : Tomcat initialized with port 8080 (http)
+2025-02-04 20:32:00 [main] INFO  : Initializing ProtocolHandler ["http-nio-8080"]
+2025-02-04 20:32:00 [main] INFO  : Starting service [Tomcat]
+2025-02-04 20:32:00 [main] INFO  : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2025-02-04 20:32:00 [main] INFO  : Initializing Spring embedded WebApplicationContext
+2025-02-04 20:32:00 [main] INFO  : Root WebApplicationContext: initialization completed in 1925 ms
+2025-02-04 20:32:00 [main] INFO  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-02-04 20:32:00 [main] INFO  : HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-02-04 20:32:00 [main] INFO  : HHH000026: Second-level cache disabled
+2025-02-04 20:32:00 [main] INFO  : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-02-04 20:32:00 [main] INFO  : HikariPool-1 - Starting...
+2025-02-04 20:32:01 [main] INFO  : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@64508788
+2025-02-04 20:32:01 [main] INFO  : HikariPool-1 - Start completed.
+2025-02-04 20:32:01 [main] INFO  : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-02-04 20:32:02 [main] INFO  : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-02-04 20:32:02 [main] WARN  : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-02-04 20:32:03 [main] INFO  : Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-02-04 20:32:03 [main] INFO  : Starting ProtocolHandler ["http-nio-8080"]
+2025-02-04 20:32:03 [main] INFO  : Tomcat started on port 8080 (http) with context path ''
+2025-02-04 20:32:03 [main] INFO  : Started VLMSStockApiApplication in 6.075 seconds (process running for 6.584)
+2025-02-04 20:32:07 [http-nio-8080-exec-1] INFO  : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-04 20:32:07 [http-nio-8080-exec-1] INFO  : Initializing Servlet 'dispatcherServlet'
+2025-02-04 20:32:07 [http-nio-8080-exec-1] INFO  : Completed initialization in 1 ms
+2025-02-04 20:32:07 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-02-04 20:32:07 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-02-04 20:32:07 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-02-04 20:32:08 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-02-04 20:32:08 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-02-04 20:32:08 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-02-04 20:32:08 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-02-04 20:32:08 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-02-04 20:32:08 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-02-04 20:32:09 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-02-04 20:32:09 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-02-04 20:32:09 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-02-04 20:32:10 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-02-04 20:32:10 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-02-04 20:32:10 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-02-04 20:32:23 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-02-04 20:32:23 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-02-04 20:32:23 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-02-04 20:32:36 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-02-04 20:32:36 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-02-04 20:32:36 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-02-04 20:33:14 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-02-04 20:33:14 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-02-04 20:33:14 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-02-04 20:33:20 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-02-04 20:33:20 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-02-04 20:33:20 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-02-04 20:33:22 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-02-04 20:33:22 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-02-04 20:33:22 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-02-04 20:33:23 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-02-04 20:33:23 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-02-04 20:33:23 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-02-04 20:33:25 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-02-04 20:33:25 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-02-04 20:33:25 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-02-04 20:33:29 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-02-04 20:33:29 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-02-04 20:33:29 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-02-04 20:33:31 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-02-04 20:33:31 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-02-04 20:33:31 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-02-04 20:33:31 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-02-04 20:33:31 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-02-04 20:33:31 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-02-04 20:33:32 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-02-04 20:33:32 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-02-04 20:33:32 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-02-04 20:33:33 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-02-04 20:33:33 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-02-04 20:33:33 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-02-04 22:00:21 [SpringApplicationShutdownHook] INFO  : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-02-04 22:00:21 [SpringApplicationShutdownHook] INFO  : HikariPool-1 - Shutdown initiated...
+2025-02-04 22:00:21 [SpringApplicationShutdownHook] INFO  : HikariPool-1 - Shutdown completed.

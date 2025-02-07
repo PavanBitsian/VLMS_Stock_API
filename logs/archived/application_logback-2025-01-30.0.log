@@ -1,0 +1,472 @@
+2025-01-30 19:31:58 [HikariPool-1 housekeeper] WARN  : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22h28m28s743ms20µs900ns).
+2025-01-30 19:39:00 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-01-30 19:39:00 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-01-30 19:39:00 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-01-30 20:54:41 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-01-30 20:54:41 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-01-30 20:54:41 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-01-30 21:29:11 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-01-30 21:29:11 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-01-30 21:29:11 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-01-30 21:29:30 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-01-30 21:29:30 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-01-30 21:29:30 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-01-30 21:29:31 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-01-30 21:29:31 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-01-30 21:29:31 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-01-30 21:29:40 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-01-30 21:29:40 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-01-30 21:29:40 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-01-30 21:29:41 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-01-30 21:29:41 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-01-30 21:29:41 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-01-30 21:29:42 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-01-30 21:29:42 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-01-30 21:29:42 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-01-30 21:30:59 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-01-30 21:30:59 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-01-30 21:30:59 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-01-30 21:31:00 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-01-30 21:31:00 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:00 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-01-30 21:31:00 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-01-30 21:31:00 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:00 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-01-30 21:31:03 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-01-30 21:31:03 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:03 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-01-30 21:31:03 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-01-30 21:31:03 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:03 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-01-30 21:31:03 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-01-30 21:31:03 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:03 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-01-30 21:31:04 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-01-30 21:31:04 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:04 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-01-30 21:31:04 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-01-30 21:31:04 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:04 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-01-30 21:31:04 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-01-30 21:31:04 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:04 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-01-30 21:31:05 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-01-30 21:31:05 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:05 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-01-30 21:31:05 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-01-30 21:31:05 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:05 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-01-30 21:31:05 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-01-30 21:31:05 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:05 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-01-30 21:31:05 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-01-30 21:31:05 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:05 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-01-30 21:31:06 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-01-30 21:31:06 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:06 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-01-30 21:31:06 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-01-30 21:31:06 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:06 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-01-30 21:31:07 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-01-30 21:31:07 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:07 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-01-30 21:31:07 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-01-30 21:31:07 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:07 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-01-30 21:31:10 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-01-30 21:31:10 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:10 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-01-30 21:31:12 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-01-30 21:31:12 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:12 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-01-30 21:31:12 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-01-30 21:31:12 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:12 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-01-30 21:31:13 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-01-30 21:31:13 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:13 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-01-30 21:31:13 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-01-30 21:31:13 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:13 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-01-30 21:31:21 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-01-30 21:31:21 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:21 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-01-30 21:31:21 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-01-30 21:31:21 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:21 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-01-30 21:31:22 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-01-30 21:31:22 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:22 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-01-30 21:31:22 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-01-30 21:31:22 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:22 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-01-30 21:31:22 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-01-30 21:31:22 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:22 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-01-30 21:31:23 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-01-30 21:31:23 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:23 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-01-30 21:31:33 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-01-30 21:31:33 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:33 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-01-30 21:31:33 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-01-30 21:31:33 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:33 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-01-30 21:31:34 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-01-30 21:31:34 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:34 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-01-30 21:31:34 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-01-30 21:31:34 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:34 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-01-30 21:31:34 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-01-30 21:31:34 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:34 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-01-30 21:31:34 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-01-30 21:31:34 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:34 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-01-30 21:31:35 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-01-30 21:31:35 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:35 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-01-30 21:31:35 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-01-30 21:31:35 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:35 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-01-30 21:31:35 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-01-30 21:31:35 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:35 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-01-30 21:31:36 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-01-30 21:31:36 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-01-30 21:31:36 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-01-30 21:32:05 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-01-30 21:32:05 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:05 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-01-30 21:32:05 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-01-30 21:32:05 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:05 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-01-30 21:32:06 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-01-30 21:32:06 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:06 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-01-30 21:32:06 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-01-30 21:32:06 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:06 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-01-30 21:32:06 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-01-30 21:32:06 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:06 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-01-30 21:32:06 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-01-30 21:32:06 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:06 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-01-30 21:32:06 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-01-30 21:32:06 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:06 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-01-30 21:32:06 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-01-30 21:32:06 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:06 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-01-30 21:32:07 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-01-30 21:32:07 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:07 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-01-30 21:32:07 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-01-30 21:32:07 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:07 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-01-30 21:32:07 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-01-30 21:32:07 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:07 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-01-30 21:32:07 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-01-30 21:32:07 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:07 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-01-30 21:32:08 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-01-30 21:32:08 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:08 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-01-30 21:32:08 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-01-30 21:32:08 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:08 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-01-30 21:32:08 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-01-30 21:32:08 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:08 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-01-30 21:32:08 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-01-30 21:32:08 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:08 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-01-30 21:32:09 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-01-30 21:32:09 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:09 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-01-30 21:32:09 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-01-30 21:32:09 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:09 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-01-30 21:32:09 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-01-30 21:32:09 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:09 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-01-30 21:32:09 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-01-30 21:32:09 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:09 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-01-30 21:32:09 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-01-30 21:32:09 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:09 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-01-30 21:32:10 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-01-30 21:32:10 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:10 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-01-30 21:32:10 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-01-30 21:32:10 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:10 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-01-30 21:32:10 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-01-30 21:32:10 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:10 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-01-30 21:32:10 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-01-30 21:32:10 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:10 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-01-30 21:32:11 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-01-30 21:32:11 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:11 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-01-30 21:32:24 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-01-30 21:32:24 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:24 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-01-30 21:32:35 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-01-30 21:32:35 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:35 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-01-30 21:32:36 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-01-30 21:32:36 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:36 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-01-30 21:32:37 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-01-30 21:32:37 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:37 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-01-30 21:32:56 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-01-30 21:32:56 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:56 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-01-30 21:32:58 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-01-30 21:32:58 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:58 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-01-30 21:32:58 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-01-30 21:32:58 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:58 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-01-30 21:32:58 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-01-30 21:32:58 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:58 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-01-30 21:32:59 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-01-30 21:32:59 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:59 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-01-30 21:32:59 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-01-30 21:32:59 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:59 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-01-30 21:32:59 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-01-30 21:32:59 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-01-30 21:32:59 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-01-30 21:33:00 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-01-30 21:33:00 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-01-30 21:33:00 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-01-30 21:33:00 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-01-30 21:33:00 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-01-30 21:33:00 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-01-30 21:33:00 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-01-30 21:33:00 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-01-30 21:33:00 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-01-30 21:33:00 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-01-30 21:33:00 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-01-30 21:33:00 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-01-30 21:33:06 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-01-30 21:33:06 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-01-30 21:33:06 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-01-30 21:33:07 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-01-30 21:33:07 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-01-30 21:33:07 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-01-30 21:33:07 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-01-30 21:33:07 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-01-30 21:33:07 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-01-30 21:33:08 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-01-30 21:33:08 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-01-30 21:33:08 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-01-30 21:33:08 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-01-30 21:33:08 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-01-30 21:33:08 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-01-30 21:33:09 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-01-30 21:33:09 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-01-30 21:33:09 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-01-30 21:33:09 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-01-30 21:33:09 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-01-30 21:33:09 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-01-30 21:33:09 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-01-30 21:33:09 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-01-30 21:33:09 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-01-30 21:33:09 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-01-30 21:33:09 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-01-30 21:33:09 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-01-30 21:34:08 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-01-30 21:34:08 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-01-30 21:34:08 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-01-30 21:34:13 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-01-30 21:34:13 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-01-30 21:34:13 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-01-30 21:34:13 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-01-30 21:34:13 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-01-30 21:34:13 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-01-30 21:34:13 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-01-30 21:34:13 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-01-30 21:34:13 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-01-30 21:34:13 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-01-30 21:34:13 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-01-30 21:34:13 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-01-30 21:34:21 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-01-30 21:34:21 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-01-30 21:34:21 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-01-30 21:34:24 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-01-30 21:34:24 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-01-30 21:34:24 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-01-30 21:34:27 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-01-30 21:34:27 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-01-30 21:34:27 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-01-30 21:34:28 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-01-30 21:34:28 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-01-30 21:34:28 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-01-30 21:34:28 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-01-30 21:34:28 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-01-30 21:34:28 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-01-30 21:34:29 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-01-30 21:34:29 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-01-30 21:34:29 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-01-30 21:39:54 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-01-30 21:39:54 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-01-30 21:39:54 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-01-30 21:39:57 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-01-30 21:39:57 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-01-30 21:39:57 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-01-30 21:39:57 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-01-30 21:39:57 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-01-30 21:39:57 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-01-30 21:39:58 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-01-30 21:39:58 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-01-30 21:39:58 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-01-30 21:39:58 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-01-30 21:39:58 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-01-30 21:39:58 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-01-30 21:39:58 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-01-30 21:39:58 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-01-30 21:39:58 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-01-30 21:39:58 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-01-30 21:39:58 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-01-30 21:39:58 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-01-30 21:39:59 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-01-30 21:39:59 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-01-30 21:39:59 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-01-30 21:39:59 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-01-30 21:39:59 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-01-30 21:39:59 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-01-30 21:39:59 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-01-30 21:39:59 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-01-30 21:39:59 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-01-30 21:40:00 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-01-30 21:40:00 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-01-30 21:40:00 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-01-30 21:40:36 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-01-30 21:40:36 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-01-30 21:40:36 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-01-30 21:40:36 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-01-30 21:40:36 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-01-30 21:40:36 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-01-30 21:40:36 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-01-30 21:40:36 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-01-30 21:40:36 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-01-30 21:40:37 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-01-30 21:40:37 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-01-30 21:40:37 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-01-30 21:40:37 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-01-30 21:40:37 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-01-30 21:40:37 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-01-30 21:40:37 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-01-30 21:40:37 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-01-30 21:40:37 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-01-30 21:40:38 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-01-30 21:40:38 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-01-30 21:40:38 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-01-30 21:40:38 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-01-30 21:40:38 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-01-30 21:40:38 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-01-30 21:40:51 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-01-30 21:40:51 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-01-30 21:40:51 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-01-30 21:40:51 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-01-30 21:40:51 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-01-30 21:40:51 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-01-30 21:40:51 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-01-30 21:40:51 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-01-30 21:40:51 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-01-30 21:40:52 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-01-30 21:40:52 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-01-30 21:40:52 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-01-30 21:41:12 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-01-30 21:41:12 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-01-30 21:41:12 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-01-30 21:41:13 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-01-30 21:41:13 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-01-30 21:41:13 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-01-30 21:41:16 [http-nio-8080-exec-10] INFO  : Start getAllProducts
+2025-01-30 21:41:16 [http-nio-8080-exec-10] DEBUG : Start getAllProducts debug
+2025-01-30 21:41:16 [http-nio-8080-exec-10] TRACE : Start getAllProducts trace
+2025-01-30 21:41:16 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-01-30 21:41:16 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-01-30 21:41:16 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-01-30 21:41:17 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-01-30 21:41:17 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-01-30 21:41:17 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-01-30 21:41:17 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-01-30 21:41:17 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-01-30 21:41:17 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-01-30 21:41:18 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-01-30 21:41:18 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-01-30 21:41:18 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-01-30 21:41:18 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-01-30 21:41:18 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-01-30 21:41:18 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-01-30 21:41:18 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-01-30 21:41:18 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-01-30 21:41:18 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-01-30 21:41:19 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-01-30 21:41:19 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-01-30 21:41:19 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-01-30 21:41:19 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-01-30 21:41:19 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-01-30 21:41:19 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-01-30 21:41:19 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-01-30 21:41:19 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-01-30 21:41:19 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-01-30 21:42:34 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-01-30 21:42:34 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-01-30 21:42:34 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-01-30 21:42:35 [http-nio-8080-exec-3] INFO  : Start getAllProducts
+2025-01-30 21:42:35 [http-nio-8080-exec-3] DEBUG : Start getAllProducts debug
+2025-01-30 21:42:35 [http-nio-8080-exec-3] TRACE : Start getAllProducts trace
+2025-01-30 21:42:38 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-01-30 21:42:38 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-01-30 21:42:38 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-01-30 21:42:38 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-01-30 21:42:38 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-01-30 21:42:38 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-01-30 21:42:40 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-01-30 21:42:40 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-01-30 21:42:40 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-01-30 21:42:40 [http-nio-8080-exec-7] INFO  : Start getAllProducts
+2025-01-30 21:42:40 [http-nio-8080-exec-7] DEBUG : Start getAllProducts debug
+2025-01-30 21:42:40 [http-nio-8080-exec-7] TRACE : Start getAllProducts trace
+2025-01-30 21:42:43 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-01-30 21:42:43 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-01-30 21:42:43 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-01-30 21:42:43 [http-nio-8080-exec-9] INFO  : Start getAllProducts
+2025-01-30 21:42:43 [http-nio-8080-exec-9] DEBUG : Start getAllProducts debug
+2025-01-30 21:42:43 [http-nio-8080-exec-9] TRACE : Start getAllProducts trace
+2025-01-30 21:43:19 [http-nio-8080-exec-2] INFO  : Start getAllProducts
+2025-01-30 21:43:19 [http-nio-8080-exec-2] DEBUG : Start getAllProducts debug
+2025-01-30 21:43:19 [http-nio-8080-exec-2] TRACE : Start getAllProducts trace
+2025-01-30 21:43:19 [http-nio-8080-exec-1] INFO  : Start getAllProducts
+2025-01-30 21:43:19 [http-nio-8080-exec-1] DEBUG : Start getAllProducts debug
+2025-01-30 21:43:19 [http-nio-8080-exec-1] TRACE : Start getAllProducts trace
+2025-01-30 21:43:35 [http-nio-8080-exec-6] INFO  : Start getAllProducts
+2025-01-30 21:43:35 [http-nio-8080-exec-4] INFO  : Start getAllProducts
+2025-01-30 21:43:35 [http-nio-8080-exec-6] DEBUG : Start getAllProducts debug
+2025-01-30 21:43:35 [http-nio-8080-exec-6] TRACE : Start getAllProducts trace
+2025-01-30 21:43:35 [http-nio-8080-exec-4] DEBUG : Start getAllProducts debug
+2025-01-30 21:43:35 [http-nio-8080-exec-4] TRACE : Start getAllProducts trace
+2025-01-30 21:43:39 [http-nio-8080-exec-5] INFO  : Start getAllProducts
+2025-01-30 21:43:39 [http-nio-8080-exec-5] DEBUG : Start getAllProducts debug
+2025-01-30 21:43:39 [http-nio-8080-exec-5] TRACE : Start getAllProducts trace
+2025-01-30 21:43:41 [http-nio-8080-exec-8] INFO  : Start getAllProducts
+2025-01-30 21:43:41 [http-nio-8080-exec-8] DEBUG : Start getAllProducts debug
+2025-01-30 21:43:41 [http-nio-8080-exec-8] TRACE : Start getAllProducts trace
+2025-01-30 21:54:31 [SpringApplicationShutdownHook] INFO  : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-01-30 21:54:31 [SpringApplicationShutdownHook] INFO  : HikariPool-1 - Shutdown initiated...
+2025-01-30 21:54:31 [SpringApplicationShutdownHook] INFO  : HikariPool-1 - Shutdown completed.
